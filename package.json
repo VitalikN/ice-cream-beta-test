@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://statsenkoin.github.io/ice-cream-beta",
+  "homepage": "https://statsenkoin.github.io/ice-cream-beta-test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-beta/"
+    "build": "parcel build src/*.html --public-url /ice-cream-beta-test/"
   },
   "repository": {
     "type": "git",
